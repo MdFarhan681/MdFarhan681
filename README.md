@@ -17,8 +17,7 @@ Skills:  REACT / JS / HTML / CSS / C / Python
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: ishrakemon681@gmail.com 
-
+- 📫 How to reach me: ishrakemon681@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdFarhan681)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/farhan-ishrak-17608b318//)  
 
