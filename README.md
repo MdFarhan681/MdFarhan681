@@ -13,8 +13,9 @@ I enjoy learning new technologies and improving my skills through hands-on proje
 
 Skills:  REACT / JS / HTML / CSS / C / Python
 
-- 🔭 I’m currently working on Telemedicine Project 
-- 🌱 I’m currently learning Next.js 
+- 🔭 I’m currently working on Telemedicine Project for my university
+- 🌱 I'm a student of Khulna University of Engineering & Technology
+- 🌱 I’m currently learning Next.js and Express.js
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: ishrakemon681@gmail.com
