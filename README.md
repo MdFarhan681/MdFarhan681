@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Md Farhan Ishrak
 #### Web Developer
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MdFarhan681.MdFarhan681">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md Farhan Ishrak....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -15,7 +15,6 @@
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-![Web Developer](https://i.ibb.co.com/G33rJ3r9/Banner-Linkedin.png)
 
 I'm a MERN Stack Developer with a strong passion for building practical, real-world web applications. Although I study a different Engineering subject at KUET, my true interest lies in programming, problem-solving, and modern web technologies.
 
