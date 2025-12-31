@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co.com/G33rJ3r9/Banner-Linkedin.png))
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/G33rJ3r9/Banner-Linkedin.png)
 
 
 
