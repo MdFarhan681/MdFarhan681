@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Farhan
+### Hi there 👋, I'm Md Farhan Ishrak
 #### Web Developer
 ![Web Developer](https://i.ibb.co.com/G33rJ3r9/Banner-Linkedin.png)
 
