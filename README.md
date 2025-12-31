@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋, I'm Farhan
+#### Web Developer
+![Web Developer](https://i.ibb.co.com/G33rJ3r9/Banner-Linkedin.png)
 
-<!--
-**MdFarhan681/MdFarhan681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MERN Stack Developer with a strong passion for building practical, real-world web applications. Although I study a different Engineering subject at KUET, my true interest lies in programming, problem-solving, and modern web technologies.
 
-Here are some ideas to get you started:
+I have completed 2 full-stack projects and 4 frontend projects, covering everything from UI design to backend logic, APIs, authentication, and database management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies and improving my skills through hands-on projects. My goal is to grow as a full-stack developer and work on impactful software solutions.
+
+
+ 
+
+Skills:  REACT / JS / HTML / CSS / C / Python
+
+- 🔭 I’m currently working on Telemedicine Project 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: ishrakemon681@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdFarhan681)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/farhan-ishrak-17608b318//)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdFarhan681)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdFarhan681)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFarhan681&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdFarhan681/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/MdFarhan681)  
+
