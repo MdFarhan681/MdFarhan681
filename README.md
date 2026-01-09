@@ -24,7 +24,7 @@ I enjoy learning new technologies and improving my skills through hands-on proje
 
 Skills:  REACT / JS / HTML / CSS / C / Python
 
-- 🔭 I’m currently working on Telemedicine Project for my university
+- 🔭 I am currently working on a full-stack Telemedicine website as my department project at the university.
 - 🌱 I'm a student of Khulna University of Engineering & Technology
 - 🌱 I’m currently learning Next.js and Express.js
 - 👯 I’m looking to collaborate on Github 
