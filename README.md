@@ -22,7 +22,7 @@ I enjoy learning new technologies and improving my skills through hands-on proje
 
  
 
-Skills:  REACT / JS / HTML / CSS / C / Python
+Skills: Next.js / MongoDB / REACT / JS / HTML / CSS / C / Python
 
 - 🔭 I am currently working on a full-stack Telemedicine website as my department project at the university.
 - 🌱 I'm a student of Khulna University of Engineering & Technology
